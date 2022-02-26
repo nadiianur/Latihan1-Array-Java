@@ -21,8 +21,8 @@ public class latihan1_6 {
         // karena sebelumnya sudah remove(0), panjang data array menjadi 3
         // maka data array yang tersisa hanya ada sampai index ke-2
         nama.remove(2);
-        // elemen array setelah di remove adalah "i" dan "d"
         System.out.println("\nElemen array setelah remove : " + nama);
+        // elemen array setelah di remove adalah "i" dan "d"
 
         System.out.println("\nAdd elemen baru ke array");
 
