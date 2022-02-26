@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class latihan1_6 {
     public static void main(String[] args) {
-        // Perintah 6 : add(0,e), add(2,f), add(3,g), add(4,h), add(6,h), dan add(-3,j),
+        // Perintah 6 : add(0,e), add(2,f), add(3,g), add(4,h), add(6,h), dan add(-3,j)
 
         ArrayList<String> nama = new ArrayList<String>();
         nama.add("a");
